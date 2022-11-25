@@ -1,0 +1,29 @@
+{
+    "name": "house1",
+    "description": "Casa numero 1",
+    "image": "ipfs://bafybeibc4hnpl3d3syd2ao4hbaj4quxz3tga6i3h4yrxqoxeyguqph77zi/house1.jpg",
+    "external_url": "https://nftstorage.link/ipfs/bafybeibc4hnpl3d3syd2ao4hbaj4quxz3tga6i3h4yrxqoxeyguqph77zi",
+    "attributes": [
+        {
+            "trait_type": "Pantas",
+            "value": "3"
+        },
+        {
+            "trait_type": "Cielo",
+            "value": "gris"
+        },
+        {
+            "trait_type": "Suelo",
+            "value": "cesped"
+        },
+        {
+            "trait_type": "Tejado",
+            "value": "tejas"
+        },
+        {
+            "trait_type": "Level",
+            "value": 3
+        }
+       
+    ]
+}

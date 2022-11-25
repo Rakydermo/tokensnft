@@ -1,0 +1,29 @@
+{
+    "name": "house3",
+    "description": "Casa numero 3",
+    "image": "ipfs://bafybeibc4hnpl3d3syd2ao4hbaj4quxz3tga6i3h4yrxqoxeyguqph77zi/house3.jpg",
+    "external_url": "https://nftstorage.link/ipfs/bafybeibc4hnpl3d3syd2ao4hbaj4quxz3tga6i3h4yrxqoxeyguqph77zi",
+    "attributes": [
+        {
+            "trait_type": "Pantas",
+            "value": "4"
+        },
+        {
+            "trait_type": "Cielo",
+            "value": "Negro"
+        },
+        {
+            "trait_type": "Suelo",
+            "value": "Cemento Rojo"
+        },
+        {
+            "trait_type": "Tejado",
+            "value": "pizarra Rosa"
+        },
+        {
+            "trait_type": "Level",
+            "value": 6
+		}		
+       
+    ]
+}
